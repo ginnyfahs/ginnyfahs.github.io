@@ -32,6 +32,7 @@ Equal parts writer and builder, I believe technology is telling the story of our
 
 #### Mentions
 ###### 2019
+*   Techworld: ["EF's Alice Bentinck talks #MovingForward and the need for more diversity in VC"](https://www.techworld.com/careers/efs-alice-bentinck-talks-movingforward-diversity-3698391/)
 *   Bloomberg Radio: ["Investors Commonly Fund People Who Look Like Them"](https://www.bloomberg.com/news/audio/2019-04-04/investors-commonly-fund-people-who-look-like-them-radio)
 *   WIRED: ["Inside the group fighting to purge sexism from Europe’s VCs"](https://www.wired.co.uk/article/movingforward-sexism-vc-ellen-pao)
 *   Les Echoes: ["#MovingForward lutte contre la discrimination dans l'investissement"](https://business.lesechos.fr/entrepreneurs/financer-sa-creation/0600846192080-movingforward-se-lance-en-europe-pour-combattre-la-discrimination-dans-l-investissement-327610.php)
