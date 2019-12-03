@@ -32,6 +32,7 @@ Equal parts advocate and builder, I believe technology is telling the story of o
 
 #### Mentions
 ###### 2019
+*   Crunchbase: [From Helsinki: Spot and #MovingForward on Harassment Reporting in the #MeToo Era](https://news.crunchbase.com/news/from-helsinki-spot-and-movingforward-on-harassment-reporting-in-the-metoo-era/)
 *   CNBC: [Here’s how online scammers prey on older Americans, and what they should know to fight back](https://www.cnbc.com/2019/11/23/new-research-pinpoints-how-elderly-people-are-targeted-in-online-scams.html?fbclid=IwAR0oNY5QvkxLxC1ojg7a3_TQYeKfrKwj9jpyNW4IAp58zYXvgDRRSmvSRQg)
 *   The Colorado Sun: [A startup asks potential investors: Have you faced sexual harassment complaints?](https://coloradosun.com/2019/10/23/to-ward-off-unsavory-investors-female-founders-of-denver-startup-always-ask-have-you-faced-sexual-harassment-complaints/)
 *   Journalism.co.uk: [Tip: Get your op-ed picked up by a major publication](https://www.journalism.co.uk/tip-of-the-day/tip-get-your-op-ed-chosen-by-a-major-publication/s419/a745778/)
