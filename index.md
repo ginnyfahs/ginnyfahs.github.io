@@ -5,7 +5,7 @@ layout: default
 I build software that enables the world I want to see – often at the intersection of technology and the public interest.
 
 ## What I'm Building Today
-*   I direct Product and R&D at [Consumer Reports Innovation Lab](lab.cr.org). My teams are advancing data & digital rights through new research and new tools. [Permission Slip](permissionslipcr.com) and [Data Rights Protocol](datarightsprotocol.org) are two of the more mature projects in our portfolio.
+*   I lead Product and R&D at [Consumer Reports Innovation Lab](lab.cr.org). My teams are advancing data & digital rights through new research and new tools. [Permission Slip](permissionslipcr.com) and [Data Rights Protocol](datarightsprotocol.org) are two of the more mature projects in our portfolio.
 
 * * *
 
@@ -19,12 +19,12 @@ I build software that enables the world I want to see – often at the intersect
 * * *
 
 ## Building Together
-*   To learn more about collaborating with me, check out my User Guide.
+*   To learn more about collaborating with me, check out my [User Guide](https://docs.google.com/document/d/1ZkApkfMUoy6zIXFU1m5fBYR5fO6VtGcujttOs0xrjGQ/edit?usp=sharing).
 
 * * *
 
 ## Just For Fun
-*   I spend time on my bike, pedaling around NYC, various states, and occasionally whole countries.
+*   I spend time on my bike, pedaling around NYC, new states, and occasionally foreign countries.
 *   I [blog](https://medium.com/@ginnyfahs) on occasion.
 *   I broke the Guinness World Record for world’s [longest phone call](https://www.thecrimson.com/article/2012/1/23/world-record-longest-phone-call/) with a bunch of friends.
 *   I sold [18,000 boxes](https://www.ajc.com/news/photos/girl-scout-cookies-for-the-troops/ZPz9VUs5CMq82WBfa0fz2J/) of Girl Scout Cookies.
