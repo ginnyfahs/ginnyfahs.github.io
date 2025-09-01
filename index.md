@@ -2,33 +2,49 @@
 layout: default
 ---
 
-I build software that enables the world I want to see – often at the intersection of technology and the public interest.
+I’m interested in how digital systems shape our choices — and how we might redesign them to better serve the people behind the screens.
 
 ## What I'm Building Today
-*   I lead Product and R&D at [Consumer Reports Innovation Lab](lab.cr.org). My teams are advancing data & digital rights through new research and new tools. [Permission Slip](permissionslipcr.com) and [Data Rights Protocol](datarightsprotocol.org) are two of the more mature projects in our portfolio.
+
+I lead [**Product R&D at Consumer Reports**](https://www.consumerreports.org/about-us/our-people/our-experts/ginny-fahs/), where I work on ways to help people navigate the messier parts of modern tech. My portfolio spans agentic AI, data rights, digital safety, and trust.
+
+My team’s prototypes have grown into popular consumer apps and technical standards, including:
+
+*   [**AskCR**](https://www.consumerreports.org/askcr/), a conversational AI experience and RAG application built to deliver trusted product advice; it’s now considered a hero feature of CR membership. 
+
+*   [**Permission Slip**](https://permissionslipcr.com/), a privacy rights app that received significant media attention including in [_The Washington Post_](https://wapo.st/43sNBtM) and on [_The Today Show_](https://www.today.com/video/how-to-protect-your-digital-devices-and-privacy-online-202613317789). 
+
+*   [**Data Rights Protocol**](https://datarightsprotocol.org/), an industry-facing technical standard for standardizing and streamlining data rights requests. 
+
+[Our lab](https://innovation.consumerreports.org/) builds in the open, often partnering with industry and academia to explore new patterns for consumer agency in real-world settings.
+
+Beyond CR, I love nurturing early talent and work. I support young tech ventures as a board member at the [Digital Harbor Foundation](https://digitalharbor.org/), and help grow the next generation of tech leaders as a [lecturer](https://sps.columbia.edu/person/ginny-fahs) in Columbia’s Masters in Technology Management program.
 
 * * *
 
 ## What I've Built
-*   I was Co-Founder & Executive Director of [#MovingForward](https://wearemovingforward.github.io/), a global social movement using policy to create a more diverse, inclusive, and harassment-free venture capital industry (more in _[The Atlantic](https://www.theatlantic.com/ideas/archive/2019/09/change-harassment-silicon-valley-change-law/597373/), [WIRED](https://www.wired.co.uk/article/movingforward-sexism-vc-ellen-pao), [CNN](https://money.cnn.com/2018/03/08/technology/movingforward-tech-vc-harassment/index.html), [Recode](https://www.recode.net/2018/3/8/17094632/venture-capital-sexual-harassment-policies-moving-forward-directory), [Pando](https://pando.com/2018/03/08/beyond-metoo-new-initiative-movingforward-seeks-hold-newly-shaken-silicon-valley-accountable/), [Bloomberg](https://www.bloomberg.com/news/videos/2018-03-22/next-steps-for-movingforward-and-metoo-video)_, and _[Institutional Investor](https://www.institutionalinvestor.com/article/b17hndr10zmwwb/venture-capital-has-a-%E2%80%98metoo%E2%80%99-problem-have-investors-been-ignoring-it)_).
-*   I was a tech policy fellow at [The Aspen Institute](https://aspentechpolicyhub.org), where I worked on [cybersecurity for older adults](https://www.cnbc.com/2019/11/23/new-research-pinpoints-how-elderly-people-are-targeted-in-online-scams.html?fbclid=IwAR0oNY5QvkxLxC1ojg7a3_TQYeKfrKwj9jpyNW4IAp58zYXvgDRRSmvSRQg) and utilizing [software development techniques in policymaking](https://www.aspentechpolicyhub.org/project/test-driven-development/).
-*   I worked at [Uber](https://www.uber.com/) as a Software Engineer, where I built the backend for global phone support and self-serve refund algorithims for [Uber Eats](https://www.ubereats.com/en-US/).
-*   I marched on Washington for reproductive rights [before I could walk](https://medium.com/@GlowHQ/the-womens-march-a-reflection-d7bb4049e5ee), and launched the [Eve app](https://glowing.com/eve), putting critical birth control and sexual health information in the pockets of millions.
+*   I was a [tech policy fellow](https://aspenpolicyacademy.org/person/ginny-fahs/) at The Aspen Institute, where I explored [cybersecurity for older adults](https://aspenpolicyacademy.org/resource/impact-case-study-ginny-fahs/) and brought [agile methods to policymaking](https://www.aspentechpolicyhub.org/project/test-driven-development/).
 
+*   I co-founded [#MovingForward](http://venturemovingforward.org), a social movement spanning 175+ VC firms in 24 countries; firms committed to address harassment and discrimination through strong corporate policies.
 
-* * *
-
-## Building Together
-*   To learn more about collaborating with me, check out my [User Guide](https://docs.google.com/document/d/1ZkApkfMUoy6zIXFU1m5fBYR5fO6VtGcujttOs0xrjGQ/edit?usp=sharing).
+*   I worked at Uber as a Software Engineer, building back-end CX and refund algorithms that fire any time you have a problem with an Uber Eats order.
 
 * * *
 
 ## Just For Fun
-*   I spend time on my bike, pedaling around NYC, new states, and occasionally foreign countries.
-*   I [blog](https://medium.com/@ginnyfahs) on occasion.
-*   I broke the Guinness World Record for world’s [longest phone call](https://www.thecrimson.com/article/2012/1/23/world-record-longest-phone-call/) with a bunch of friends.
-*   I sold [18,000 boxes](https://www.ajc.com/news/photos/girl-scout-cookies-for-the-troops/ZPz9VUs5CMq82WBfa0fz2J/) of Girl Scout Cookies.
+*   I sing in a community choir, host overly ambitious theme parties, and play ukulele and piano with joyful mediocrity. 
 
+*   I believe third spaces matter, and participate in a number of gathering experiments across NYC (offbeat salons, defunct social clubs, community living…)
 
+*   As part of an art collective, we broke the Guinness World Record for world’s [longest phone call](https://www.thecrimson.com/article/2012/1/23/world-record-longest-phone-call/).
 
-#### Still reading? Say hi on [Twitter](https://twitter.com/ginnyfahs).
+*   I majored in American History & Literature, writing my senior thesis about meme culture before it was a hot topic.
+
+* * *
+
+## Building Together
+*   I advise, support, and sometimes angel invest in early-stage teams.
+
+*   Curious what it’s like to work with me? I wrote a [user guide](https://docs.google.com/document/d/1ZkApkfMUoy6zIXFU1m5fBYR5fO6VtGcujttOs0xrjGQ/edit?usp=sharing).
+
+*   Reach out via ginnyfahs at protonmail dot com.
