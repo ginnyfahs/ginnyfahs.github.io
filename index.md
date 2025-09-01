@@ -10,7 +10,7 @@ I lead [**Product R&D at Consumer Reports**](https://www.consumerreports.org/abo
 
 My team’s prototypes have grown into popular consumer apps and technical standards, including:
 
-*   [**AskCR**](ask.cr), a conversational AI experience and RAG application built to deliver trusted product advice; it’s now considered a hero feature of CR membership. 
+*   [**AskCR**](https://www.consumerreports.org/askcr/), a conversational AI experience and RAG application built to deliver trusted product advice; it’s now considered a hero feature of CR membership. 
 
 *   [**Permission Slip**](https://permissionslipcr.com/), a privacy rights app that received significant media attention including in [_The Washington Post_](https://wapo.st/43sNBtM) and on [_The Today Show_](https://www.today.com/video/how-to-protect-your-digital-devices-and-privacy-online-202613317789). 
 
