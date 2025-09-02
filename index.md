@@ -47,4 +47,4 @@ Beyond CR, I love nurturing early talent and work. I support young tech ventures
 
 *   Curious what it’s like to work with me? I wrote a [user guide](https://docs.google.com/document/d/1ZkApkfMUoy6zIXFU1m5fBYR5fO6VtGcujttOs0xrjGQ/edit?usp=sharing).
 
-*   Reach out via ginnyfahs at protonmail dot com.
+*   Reach out via hey [dot] ginnyfahs [at] gmail [dot] com.
